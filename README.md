@@ -1,12 +1,10 @@
-### ```Note: rename the file extension to .md and open this file with any Markup Language Supported application```
-
-# How to run the program and get Output
+## How to run the program and get Output
 
 ### Requirements
-
+```
 - Python 3.8 (Should work fine on 3.x)
 - Postman/ Curl (Test the REST API)
-
+```
 ### How to run server
 
 - open SourceCode folder
@@ -35,13 +33,13 @@ https://www.youtube.com/watch?v=pf2RimrPCAg
 
 ### Screentshots
 
-![1](./1.png)
+![1](Screenshots/1.png)
 
-![1](./2.png)
+![2](Screenshots/2.png)
 
-![1](./3.png)
+![3](Screenshots/3.png)
 
-![1](./4.png)
+![4](Screenshots/4.png)
 
 
 
